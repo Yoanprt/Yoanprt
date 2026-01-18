@@ -1,7 +1,6 @@
-- 👋 Hi, 18yo French computer science student
-- 🌱 I'm currently learning C and Python.
+- 👋 Hi, 19yo French computer science student
+- 🌱 I'm currently learning C and Java.
 - 👀 Interested in Cybersecurity and Networks
-- ⚡ Next 6 months goals : CCNA,...? (26/01/25-->01/08/25)
 
 <!---
  I’m @Yoanprt
